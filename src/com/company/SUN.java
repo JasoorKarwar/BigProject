@@ -1,7 +1,7 @@
 package com.company;
 
 public class SUN {
-    int Temperature;
+    String Temperature;
     String Heat;
     String Radious;
 }

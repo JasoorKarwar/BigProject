@@ -13,7 +13,7 @@ public class Main {
 
         SUN troyo = new SUN();
         troyo.Heat = "56748k";
-        troyo.temperature = "347878k";
+        troyo.Temperature = "347878k";
         troyo.Radious = "99899898k";
 
     }
